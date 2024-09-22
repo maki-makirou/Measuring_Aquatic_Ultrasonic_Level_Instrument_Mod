@@ -8,7 +8,7 @@ This is a site about MAULI modifications.
 ## ライセンス
 - MIT ライセンスです。
 
-## 作り方
+## 電源部の改造方法
 - [2025年1月版](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/MAULI_202501/MAULI_202501.md)
 
 ## 改造について
