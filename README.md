@@ -9,7 +9,6 @@ MIT ライセンスです。
 <br>
 
 ## 電源部の改造方法
-
 以下のリンク先をご覧ください。
 
 - [2025年1月版](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/MAULI_202501/MAULI_202501.md)
@@ -23,7 +22,7 @@ MIT ライセンスです。
 
 ## 完成
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/img/IMG_6465.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument/blob/main/MAULI_202501/img/IMG_6472.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/IMG_6520.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/IMG_6526.JPG" width="320px">
 
 これで完成です！
 
