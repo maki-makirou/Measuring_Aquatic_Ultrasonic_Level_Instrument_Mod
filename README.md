@@ -22,7 +22,7 @@ MIT ライセンスです。
 
 ## 完成
 
-<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/IMG_6520.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/IMG_6526.JPG" width="320px">
+<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/img/IMG_6520.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/img/IMG_6526.JPG" width="320px">
 
 これで完成です！
 
