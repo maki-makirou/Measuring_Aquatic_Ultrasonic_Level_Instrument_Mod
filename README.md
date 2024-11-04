@@ -24,7 +24,7 @@ MIT ライセンスです。
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/img/IMG_6520.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/img/IMG_6526.JPG" width="320px">
 
-これで完成です！
+これで完成です！　電池は3本で1セットです。上下どちらかに単1電池を3個セットすると起動します。6個セットすると最大の電池容量となります。
 
 お疲れ様でした！！
 
