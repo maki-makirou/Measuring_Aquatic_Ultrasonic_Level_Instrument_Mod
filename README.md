@@ -4,7 +4,7 @@ Raspberry Pi Pico を用いた電子工作による**安価で高性能なロガ
 <br>
 
 ## ライセンス
-MIT ライセンスです。
+CC0 1.0 Universal です。
 
 <br>
 
