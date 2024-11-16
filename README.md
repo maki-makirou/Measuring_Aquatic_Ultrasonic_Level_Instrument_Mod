@@ -4,7 +4,7 @@ Raspberry Pi Pico を用いた電子工作による**安価で高性能なロガ
 <br>
 
 ## ライセンス
-CC0 1.0 Universal です。自由に改変してください。
+CC0 1.0 Universal です。自由に改造してください。
 
 <br>
 
@@ -24,7 +24,9 @@ CC0 1.0 Universal です。自由に改変してください。
 
 <img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/img/IMG_6520.JPG" width="320px">　　<img src="https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/blob/main/img/IMG_6526.JPG" width="320px">
 
-これで完成です！　電池は3本で1セットです。上下どちらかに単1電池を3個セットすると起動します。6個セットすると最大の電池容量となります。
+これで完成です！　電池は3本で1セットで、上段下段どちらかに単1電池を3個セットすると起動します。
+なお、アルカリ・マンガン両方で動作可能であり、アルカリ単1電池を6個セットすると最大の電池容量となります。
+
 
 お疲れ様でした！！
 
