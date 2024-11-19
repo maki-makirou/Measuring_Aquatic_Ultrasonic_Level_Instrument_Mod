@@ -32,3 +32,12 @@ CC0 1.0 Universal です。自由に改造してください。
 
 <br>
 
+## 問い合わせ先
+  [Discussions](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/discussions) で問い合わせてください。
+
+<br>
+
+## 履歴
+- 2024-11-XX 公開
+
+<br>
