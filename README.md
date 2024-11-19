@@ -32,6 +32,11 @@ CC0 1.0 Universal です。自由に改造してください。
 
 <br>
 
+## 注意点
+保管時は乾電池を外してください。両面テープが乾電池の重さで剥がれる場合があります。
+
+<br>
+
 ## 問い合わせ先
   [Discussions](https://github.com/maki-makirou/Measuring_Aquatic_Ultrasonic_Level_Instrument_Mod/discussions) で問い合わせてください。
 
