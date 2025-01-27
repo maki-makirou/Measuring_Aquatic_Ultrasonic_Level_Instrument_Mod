@@ -1,5 +1,5 @@
 # Measuring Aquatic Ultrasonic Level Instrument (MAULI) の改造について
-Raspberry Pi Pico を用いた電子工作による**安価で高性能なロガー付き超音波式水位計**の改造に関するサイトです。**改造する場合は自己責任となりますのでご注意ください。**
+Raspberry Pi Pico を用いた電子工作による**安価で高性能なロガー付き超音波式水位計**の改造に関するサイトです。**自己責任で改造してください。**
 
 <br>
 
